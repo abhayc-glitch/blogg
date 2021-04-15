@@ -1,0 +1,2 @@
+# Blogg
+Django Site
